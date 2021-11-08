@@ -1,2 +1,0 @@
-este es un archvo de prueba
-el próximo archivo ya es un py
